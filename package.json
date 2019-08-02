@@ -2,6 +2,7 @@
   "name": "yrseo",
   "version": "0.1.0",
   "private": true,
+	"homepage": "https://seoyoungrag.github.io/yrseo",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
