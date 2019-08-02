@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yrseo/static/css/main.ea2b0149.chunk.css",
+    "main.js": "/yrseo/static/js/main.f8a41784.chunk.js",
+    "main.js.map": "/yrseo/static/js/main.f8a41784.chunk.js.map",
+    "runtime~main.js": "/yrseo/static/js/runtime~main.9de37f80.js",
+    "runtime~main.js.map": "/yrseo/static/js/runtime~main.9de37f80.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/yrseo/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/yrseo/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/yrseo/index.html",
+    "precache-manifest.048794d19b7ae438dea5bd0854a2b442.js": "/yrseo/precache-manifest.048794d19b7ae438dea5bd0854a2b442.js",
+    "service-worker.js": "/yrseo/service-worker.js",
+    "static/css/main.ea2b0149.chunk.css.map": "/yrseo/static/css/main.ea2b0149.chunk.css.map",
+    "static/media/logo.svg": "/yrseo/static/media/logo.5d5d9eef.svg"
+  }
+}
